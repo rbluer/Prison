@@ -1,3 +1,36 @@
+# WARNING : This project is grossly out of date.
+Please go back to the original project at https://github.com/PrisonTeam/Prison and use that version.
+
+I have abandoned this fork because I am now the lead developer on the original project.  This fork became release v3.2.0 within the main project.
+
+I've added so may new features and enhancements to the main project that I cannot begin to list them all.  Please see the change log and the documentation through the table of contents, both of which are accessible through hyperlinks on that project's readme file.
+
+
+Some highlights:
+* **Tab Complete is now part of the prison command handler**
+* **All commmands now can specify alt perms and even aliases**
+* **Over 100 placeholders, including aliases.**  Includes mine, rank, player, and player-mine placeholders.
+* **Supports Spigot 1.8 through 1.16 and higher!**
+* **Now includes a built in GUI, auto manager for auto pickup, auto smelt, and auto block. Also include a sellall command too**
+* **New Auto Configure to setup all ranks A through Z and mines A through Z, links mines to their ranks, sets up the basic perms, and adds default blocks to all mines in increasing order of value**.  Auto Configure can get you started with a new prison server by generating all of this in less than 1 minute.
+* **New features to move and resize mines with auto repairs to surrounding blocks**
+* **New feature to wrap the mine in a patterned liner that includes ladders in each wall.**
+* **For huge mines there is an optional paging feature for resets**.  Even with multi-million block mines, your server will not lag when it resets.
+* **Mines now manage their own workflows.** They are independant tasks that are self-aware of its own environment and is able to react to zero blocks, or thresholds.  Each mine manages it's own reset schedule so each mine can operate on it's own.
+* **Many new mine and rank commands.  New Prestige ladder too.**
+
+* **Coming soon: Custom block support and full block support of every type in every version of all Spigot versions!**
+
+
+Lastly, if you need help with anything, please visit the Prison's discord server.  We'd be happy to help. :)
+
+  - Blue
+
+
+<hr />
+
+
+
 [![Documentation](https://static.ultz.co.uk/PrisonMoveDoc.png)](https://confluence.onultz.com/display/PRIS)
 ![Prison Banner](https://faizaand.github.io/prison/img/prison-banner.png)
 
